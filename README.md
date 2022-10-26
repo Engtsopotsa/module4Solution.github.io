@@ -1,2 +1,2 @@
-# module4Solution.github.io
-Module 4 Solution
+# Module4Solution
+ Javascript solution
